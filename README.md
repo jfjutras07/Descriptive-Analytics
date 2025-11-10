@@ -1,7 +1,6 @@
 # Descriptive Analytics
 
-This repository contains descriptive analytics projects across multiple domains, including municipal governance, healthcare, finance, and international development.  
-Projects explore a variety of descriptive techniques, including data visualization, dashboards, summary statistics, and reporting.
+This repository contains descriptive analytics projects across multiple domains, including municipal governance, healthcare, finance, and international development. Projects explore a variety of descriptive techniques, including data visualization, dashboards, summary statistics, and reporting.
 
 ## Organization
 Each project is contained in its own folder at the root of this repository.
