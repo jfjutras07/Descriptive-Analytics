@@ -20,6 +20,6 @@ The purpose is to document my learning progression transparently and ensure that
 
 **Weakness identified**:
 
-  For this descriptive analytics project, I realized that I should have defined specific questions and created a plan from the start, because a dataset can lead to extensive exploration and analysis. Moving forward, I need to focus on the essentials, both in terms of code and explanations.
+  For this descriptive analytics project, I realized that I should have defined specific questions and created a plan from the start, because a dataset can lead to extensive exploration and analysis. Moving forward, I need to focus on the essentials, both in terms of code and explanations. It will also be necessary to limit textual descriptions and enhance my conclusion section with more impactful visualizations.
 
 ---
