@@ -16,7 +16,7 @@ The purpose is to document my learning progression transparently and ensure that
 
 **Month**: Novembre 2025
 
-**Link**: To be coming soon
+**Link**: [Global Conflict Analysis](https://github.com/jfjutras07/Descriptive-Analytics/tree/main/Global%20Conflict%20Analysis)
 
 **Weakness identified**:
 
