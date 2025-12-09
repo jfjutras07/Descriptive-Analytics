@@ -23,3 +23,17 @@ The purpose is to document my learning progression transparently and ensure that
   For this descriptive analytics project, I realized that I should have defined specific questions and created a plan from the start, because a dataset can lead to extensive exploration and analysis. Moving forward, I need to focus on the essentials, both in terms of code and explanations. It will also be necessary to limit textual descriptions and enhance my conclusion section with more impactful visualizations.
 
 ---
+
+### Project 2
+
+**Project Name**: Global Health Data Cleaning and Harmonization
+
+**Month**: December 2025
+
+**Link**: [EDA - Global Health Context](https://github.com/jfjutras07/Descriptive-Analytics/tree/main/EDA%20in%20a%20Global%20Health%20Context)
+
+**Weakness identified**:
+
+In this project, I realized that some parts of my code were heavy and repetitive. To improve, I will start building a well-organized central library to store reusable rules and functions for preprocessing, data transformation, modeling, and other tasks. This will streamline my workflow, reduce redundancy, and make future projects more maintainable and efficient.
+
+---
