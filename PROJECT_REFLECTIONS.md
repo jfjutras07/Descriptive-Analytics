@@ -37,3 +37,17 @@ The purpose is to document my learning progression transparently and ensure that
 In this project, I realized that some parts of my code were heavy and repetitive. To improve, I will start building a well-organized central library to store reusable rules and functions for preprocessing, data transformation, modeling, and other tasks. This will streamline my workflow, reduce redundancy, and make future projects more maintainable and efficient.
 
 ---
+
+### Project 3
+
+**Project Name**: Life Expectancy (WHO) : Descriptive Analysis for 2015
+
+**Month**: December 2025
+
+**Link**: [Life Expectancy (WHO)](https://github.com/jfjutras07/Descriptive-Analytics/tree/main/Life%20Expectancy%20(WHO))
+
+**Weakness identified**:
+
+I need to better synthesize my summary sections. While I now include more visualizations, I should also incorporate tables and concise summaries to highlight key insights more clearly. My goal is to communicate effectively with audiences who may not be familiar with the data, focusing on the essential findings without overwhelming details.
+
+---
