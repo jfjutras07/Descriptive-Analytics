@@ -14,7 +14,7 @@ The purpose is to document my learning progression transparently and ensure that
 
 **Project Name**: Global Conflict Analysis
 
-**Month**: Novembre 2025
+**Month**: November 2025
 
 **Link**: [Global Conflict Analysis](https://github.com/jfjutras07/Descriptive-Analytics/tree/main/Global%20Conflict%20Analysis)
 
