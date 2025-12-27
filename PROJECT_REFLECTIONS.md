@@ -51,3 +51,17 @@ In this project, I realized that some parts of my code were heavy and repetitive
 I need to better synthesize my summary sections. While I now include more visualizations, I should also incorporate tables and concise summaries to highlight key insights more clearly. My goal is to communicate effectively with audiences who may not be familiar with the data, focusing on the essential findings without overwhelming details.
 
 ---
+
+### Project 4
+
+**Project Name**: AI Impact on Jobs 2030
+
+**Month**: December 2025
+
+**Link**: [AI Impact on Jobs 2030](https://github.com/jfjutras07/Descriptive-Analytics/tree/main/AI%20Impact%20on%20Jobs%202030)
+
+**Weakness identified**:
+
+While my AI Impact on Jobs 2030 project includes descriptive analyses, textual interpretation, and enhanced visualizations, the Insights and Recommendations section lacks a clear, logical structure. I need to develop a consistent method to organize findings, synthesize key messages, and link visual evidence to concise takeaways. Additionally, I plan to invest time in improving my general analysis library by observing how other practitioners structure final reports (text, visuals, summary tables).
+
+---
