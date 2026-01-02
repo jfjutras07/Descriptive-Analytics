@@ -62,6 +62,20 @@ I need to better synthesize my summary sections. While I now include more visual
 
 **Weakness identified**:
 
-While my AI Impact on Jobs 2030 project includes descriptive analyses, textual interpretation, and enhanced visualizations, the Insights and Recommendations section lacks a clear, logical structure. I need to develop a consistent method to organize findings, synthesize key messages, and link visual evidence to concise takeaways. Additionally, I plan to invest time in improving my general analysis library by observing how other practitioners structure final reports (text, visuals, summary tables).
+While my AI Impact on Jobs 2030 project includes descriptive analyses, textual interpretation, and enhanced visualizations, the Insights and Recommendations section lacks a clear, logical structure. I need to develop a consistent method to organize findings, synthesize key messages, and link visual evidence to concise takeaways. Additionally, I plan to invest time in improving my general analysis (uniform color palette, function explanations, standardized naming, key functions with unit tests, etc.).
+
+---
+
+### Project 5
+
+**Project Name**: Glassdoor - Gender Pay Gap
+
+**Month**: January 2026
+
+**Link**: [Gender Pay Gap](https://github.com/jfjutras07/Descriptive-Analytics/tree/main/Gender%20Pay%20Gap)
+
+**Weakness identified**:
+
+I need to continue improving storytelling, creating more relevant visualizations to simplify analyses, and conduct benchmarking across different projects to identify best practices. The goal is to integrate these enhancements not only into my general analysis library but also into my overall approach to conducting descriptive analytics projects, ensuring more consistent, clear, and actionable outcomes.
 
 ---
