@@ -1,4 +1,4 @@
-# Healthcare Data Quality & Clinical Validation Pipeline
+# Healthcare Data Quality and Clinical Validation Pipeline
 ### Clinical Record Cleaning, Consistency Assessment & Healthcare Data Reliability Framework
 **Data Quality Management, Clinical Rule Engineering & Analytical Dataset Preparation**
 
